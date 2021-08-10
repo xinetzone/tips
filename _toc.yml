@@ -13,9 +13,9 @@ parts:
 
 - caption: 主题
   chapters:
-  - file: docs/topics/index
+  - file: docs/search/index
     sections:
-    - glob: docs/topics/**
+    - glob: docs/search/**
 
 - caption: 原理
   chapters:
